@@ -1,16 +1,39 @@
-## Hi there 👋
+ 👋 Hi there, I'm [FARRUKH HUSSAIN]
 
-<!--
-**FhussainCodes/FhussainCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a IT ( Information Technology ) student and an aspiring **web developer** currently learning **full-stack development**.  
+I have a strong interest in **backend technologies** and love building scalable, logic-driven applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💻 Currently Learning:
+- HTML, CSS, JavaScript (Frontend basics)
+- Node.js and Express (Backend)
+- MongoDB (Database)
+- Git & GitHub
+
+
+🧰 Frontend Tools & Libraries:
+- Zustand (Lightweight state management for React)
+- Redux (Global state management for React)
+- Tailwind CSS (Utility-first CSS framework)
+- Bootstrap (Responsive UI framework)
+- Material UI (React component library)
+
+
+🔍 Exploring:
+- REST APIs
+- Authentication & Authorization
+- MVC architecture
+- Local Storage (Browser data persistence)
+- Deployment (Netlify, Vercel, Render, etc.)
+- UI/UX with modern frontend tools
+
+
+🚀 Goals:
+- Become a proficient **backend developer**
+- Build real-world **full-stack projects**
+- Deploy and maintain scalable web apps
+- Contribute to **open-source** communities
+
+
+📫 How to reach me:
+- 📧 Email: farrukhhussainofficial13@gmail.com
